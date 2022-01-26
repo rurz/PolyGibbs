@@ -1,0 +1,9 @@
+name = "PolyGibbs"
+uuid = "9d0a361c-70a8-4bc9-a7e1-69c8c8b10e52"
+authors = ["Alejandro R. Urzúa <alejandro@icf.unam.mx>"]
+version = "0.1.0"
+
+[deps]
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
