@@ -40,7 +40,7 @@ N = Integer(2*j + 1);
 output = Emodes(input, θ)
 
 ###################################################################################################
-# Saving results 
+# Saving results ##################################################################################
 
 @info "Writting the results"
 writedlm("data/target/symm/symm50_rpi4.dat", real(output))
